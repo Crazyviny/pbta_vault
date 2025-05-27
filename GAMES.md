@@ -32,6 +32,7 @@
 | [[Urban Shadows 1e]]                              | Городское фэнтези.                            | #US1 #Urban_fantasy #PVP_game                     |
 | [[Аристократия]]                                  | Политика.                                     | #AR #Politics #Historical                         |
 | [[Грань Вселенной 3e]]                            | Космоопера.                                   | #EU3 #Sci-fi                                      |
+| [[Плащи и Пистоли]]                               | Стимпанк, мистика, городское фэнтези.         | #CNP #Steampunk #Mistic #Urban_fantasy            |
 | [[Поцелуй Вампира]]                               | Симулятор мелодрамы о вампирах.               | #VK #Filmmaking #Melodrama                        |
 | [[Путь к особой цели]]                            | Классическое фэнтези.                         | #PAP #Fantasy                                     |
 
