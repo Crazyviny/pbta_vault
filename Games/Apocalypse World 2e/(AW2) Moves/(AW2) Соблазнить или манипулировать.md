@@ -1,4 +1,4 @@
-#AW2  #Moves #Basic #Talks #Intrigue 
+#AW2 #Moves #Basic #Talks #Intrigue 
 
 *Это ход отличается от 1й редакции: [[(AW1) Соблазнить или манипулировать]]*
 

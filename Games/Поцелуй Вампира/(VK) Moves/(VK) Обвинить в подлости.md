@@ -1,4 +1,4 @@
-#VK  #Moves #Basic #Drama #Intrigue #Talks 
+#VK  #Moves #Basic #Drama #Intrigue #Talks #Putdown
 ## Обвинить в подлости  
 Когда ты обвиняешь собеседника в подлом поступке прямо  в лицо, спроси себя:   
 - Есть ли вокруг публика?   

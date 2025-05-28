@@ -1,4 +1,4 @@
-#CNP #Moves #Basic #Talks #Intrigue 
+#CNP #Moves #Basic #Talks #Intimidate 
 
 ### Запугать  
 Когда ты когда озвучиваешь угрозу и готов её выполнить, выбери 1:  

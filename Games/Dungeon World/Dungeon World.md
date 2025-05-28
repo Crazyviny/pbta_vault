@@ -1,4 +1,4 @@
-#DW  #Games #Preface #Fantasy 
+#DW  #Games #Preface #Fantasy #Magic 
 
 ## О чем
 Героическое фэнтези о странствующих искателях приключений идущих к цели

@@ -1,4 +1,4 @@
-#MH2 #Moves #Basic #Intrigue #Drama #Giri #Bonds
+#MH2 #Moves #Basic #Putdown #Intrigue #Drama #Giri #Bonds 
 
 ### **Отшить (Осадить)** 
 

@@ -1,4 +1,4 @@
-#US1  #Games #Preface #Urban_fantasy
+#US1  #Games #Preface #Urban_fantasy #Magic
 ## О чем
 Игра в жанре городского фэнтези.
 

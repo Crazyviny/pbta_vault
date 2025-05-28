@@ -10,9 +10,9 @@
 | [[Brindlewood Bay]]                               | Детектив, мистика                             | #BB #Cordova #Detective #Mistic                   |
 | [[Cartel]]                                        | Криминал, современность.                      | #CA #Criminal                                     |
 | [[Comrades]]                                      | Революционеры.                                | #COM #Rebels                                      |
-| [[Dungeon World]]                                 | Героическое фэнтези. Эмулятор D&D             | #DW #Fantasy                                      |
+| [[Dungeon World]]                                 | Героическое фэнтези. Эмулятор D&D             | #DW #Fantasy #Magic                               |
 | [[Hearts of Wulin]]                               | У-ся мелодрама.                               | #HOW #Anime #Melodrama #PVP_game                  |
-| [[Homebrew World]]                                | Классическое фэнтези.                         | #HBW #Fantasy                                     |
+| [[Homebrew World]]                                | Классическое фэнтези.                         | #HBW #Fantasy #Magic                              |
 | [[Horror Movie World]]                            | Хоррор, киносимулятор                         | #HMW #Oneshot #Horror #Filmmaking                 |
 | [[Humanity Zero]]                                 | Киберпанк, научная фантастика.                | #H0 #Cyberpunk #Sci-fi #PVP_game                  |
 | [[Liquid Soap]]                                   | Мыльная опера.                                | #PP #Soap_opera #Filmmaking #Melodrama            |
@@ -29,12 +29,12 @@
 | Street dogs                                       | Сэйнен, городское фэнтези.                    | #SD #Anime #Urban_fantasy                         |
 | [[The Between]]                                   | Мистика, детектив, викторианский Лондон       | #TB #Cordova  #Detective #Mistic #Horror          |
 | [[The `Hood]]                                     | Криминал, современность.                      | #TH #Criminal                                     |
-| [[Urban Shadows 1e]]                              | Городское фэнтези.                            | #US1 #Urban_fantasy #PVP_game                     |
+| [[Urban Shadows 1e]]                              | Городское фэнтези.                            | #US1 #Urban_fantasy #PVP_game #Magic              |
 | [[Аристократия]]                                  | Политика.                                     | #AR #Politics #Historical                         |
 | [[Грань Вселенной 3e]]                            | Космоопера.                                   | #EU3 #Sci-fi                                      |
 | [[Плащи и Пистоли]]                               | Стимпанк, мистика, городское фэнтези.         | #CNP #Steampunk #Mistic #Urban_fantasy            |
 | [[Поцелуй Вампира]]                               | Симулятор мелодрамы о вампирах.               | #VK #Filmmaking #Melodrama                        |
-| [[Путь к особой цели]]                            | Классическое фэнтези.                         | #PAP #Fantasy                                     |
+| [[Путь к особой цели]]                            | Классическое фэнтези.                         | #PAP #Fantasy #Magic                              |
 
 ## Смотрите также
 [Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit)

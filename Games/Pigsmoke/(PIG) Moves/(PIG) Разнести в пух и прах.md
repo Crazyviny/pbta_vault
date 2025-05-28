@@ -1,4 +1,4 @@
-#PIG #Moves #Talks  
+#PIG #Moves #Talks #Intimidate #Putdown 
 ### Разнести в пух и прах 
 ***(ПРИНУЖДЕНИЕ)***
 

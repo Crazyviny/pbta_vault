@@ -1,4 +1,4 @@
-#Preface #Games #HBW #Fantasy
+#Preface #Games #HBW #Fantasy #Magic
 
 ## О чем
 Фэнтези хак для ваншотов и коротких игр на основе DW.

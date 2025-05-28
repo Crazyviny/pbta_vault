@@ -1,4 +1,4 @@
-#CNP #Moves #Basic #Talks #Drama #Intrigue #Meta_currency 
+#CNP #Moves #Basic #Talks #Putdown #Drama #Intrigue #Meta_currency 
 
 ### Осадить  
 Когда ты публично ставишь на место кого-то или парируешь выпад против  твоего почета, скажи, **чего не хватает им или их аргументам,** и брось **Почет.**  

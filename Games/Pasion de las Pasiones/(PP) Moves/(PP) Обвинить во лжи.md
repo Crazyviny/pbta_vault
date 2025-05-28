@@ -1,4 +1,4 @@
-#PP #Moves #Basic #Drama #Intrigue #Talks 
+#PP #Moves #Basic #Drama #Intrigue #Talks #Putdown
 ##  Обвинить во лжи
 
 Когда **обвиняешь кого-то во лжи,** добавь к броску вопросы:
