@@ -1,4 +1,5 @@
 #GM_help #Links
+
 ### Статьи
 - [PbtA для самых маленьких](https://vk.com/@red_librarian-pbta-dlya-samyh-malenkih)
 - [Основные составляющие PbtA, а также его сильные и слабые стороны](https://vk.com/@cyberblask-osnovnye-sostavlyauschie-pbta-a-takzhe-ego-silnye-i-slabye-s)
@@ -7,8 +8,6 @@
 - [Статьи сообщества 2d6 историй](https://vk.com/@story_2d6)
 - [Почему я люблю PbtA](https://vk.com/@-214463944-pochemu-ya-lublu-pbta)
 - [Создаем детектив, не зная, кто убийца](https://vk.com/@gmentor-cordova) 
-
-
 
 #### Про подготовку к игре
 - [Подготовка в ПбтА](https://telegra.ph/Podgotovka-v-PbtA-04-18)
