@@ -1,10 +1,10 @@
 #GM_help #Links 
 
-### Статьи
+## Статьи
 - [PbtA для самых маленьких](https://vk.com/@red_librarian-pbta-dlya-samyh-malenkih)
 - [Основные составляющие PbtA, а также его сильные и слабые стороны](https://vk.com/@cyberblask-osnovnye-sostavlyauschie-pbta-a-takzhe-ego-silnye-i-slabye-s)
-- [Как понять Грань Вселенной (и ПБТА)](https://vk.com/@edgeoftheverse-kak-ponyat-gran-vselennoi-i-pbta), так-же остальные [статьи сообщества Грани вселенной](https://vk.com/@edgeoftheverse) 
-- [Статьи сообщества @hackyou](https://vk.com/@pbtahackyou), и в частности перевод статьи Винсента Бейкера "Powered by the Apocalypse": [часть 1](https://vk.com/@pbtahackyou-powered-by-the-apocalypse-chast-1) [2](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-2) [3](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-3) [4](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-4) [5](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-5)
+- [Как понять Грань Вселенной (и ПБТА)](https://vk.com/@edgeoftheverse-kak-ponyat-gran-vselennoi-i-pbta), так-же остальные [**статьи сообщества Грани вселенной**](https://vk.com/@edgeoftheverse) 
+- [**Статьи сообщества @hackyou**](https://vk.com/@pbtahackyou), и в частности перевод статьи Винсента Бейкера "Powered by the Apocalypse": [часть 1](https://vk.com/@pbtahackyou-powered-by-the-apocalypse-chast-1) [2](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-2) [3](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-3) [4](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-4) [5](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-5)
 - [Статьи сообщества 2d6 историй](https://vk.com/@story_2d6)
 - [Почему я люблю PbtA](https://vk.com/@-214463944-pochemu-ya-lublu-pbta)
 - [Создаем детектив, не зная, кто убийца](https://vk.com/@gmentor-cordova) 
@@ -33,10 +33,12 @@
 - [О бедных узах замолвите слово](https://vk.com/@-214463944-o-bednyh-uzah-zamolvite-slovo) - исследование вариантов реализации уз в разных хаках
 - [От связей к Флагам](https://vk.com/wall-207545496_138) - статья про то что можно изменить в механизме уз
 
-#### Обучающее видео
+## Обучающее видео
 - [Как готовить ПБТА-движок](https://www.youtube.com/watch?v=uQ1LSfD9170) от Крайка 
+- [Лекция по импровизации](https://youtu.be/ancT48eBSik) от Крайка 
+- [Масштаб игрового мира](https://youtu.be/aD0n0dWRVuI) от Крайка 
 
-*[[Записи игр]] вынесены в отдельный раздел*
+*[[Записи игр]] (стримы) вынесены в отдельный раздел*
 
 
 
