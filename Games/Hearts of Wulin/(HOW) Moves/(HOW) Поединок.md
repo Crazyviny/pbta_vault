@@ -1,4 +1,4 @@
-#HOW  #Moves  #Basic #Battle 
+#HOW  #Moves  #Basic #Battle #Boss
 
 ### Поединок  
 Когда вы сражаетесь с достойным противником,  бросьте со стихией стиля.  

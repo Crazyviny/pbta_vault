@@ -1,4 +1,4 @@
-#PIG #Moves #Basic #Investigation 
+#PIG #Moves #Basic #Investigation #Boss 
 ### Копнуть глубже 
 ***(ДЛИТЕЛЬНОЕ ДЕЙСТВИЕ)***
 
