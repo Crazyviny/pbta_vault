@@ -1,4 +1,4 @@
-#EU3 #GM #Worldbuilding
+#EU3 #GM #Worldbuilding #Questions 
 
 ### Главные вопросы
 - Что ты делаешь?

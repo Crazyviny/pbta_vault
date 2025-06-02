@@ -1,4 +1,4 @@
-#EU3 #GM #Start 
+#EU3 #GM #Start #Questions 
 
 ### Первая серия
 #### С чего начать игру?
