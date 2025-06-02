@@ -1,4 +1,4 @@
-### **Принципы**
+### Принципы
 
 #MH2 #GM #GM_tasks #GM_principle 
 
