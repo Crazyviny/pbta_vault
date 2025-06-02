@@ -30,6 +30,7 @@
 | Street dogs                                       | Сэйнен, городское фэнтези.                    | #SD #Anime #Urban_fantasy                         |
 | [[The Between]]                                   | Мистика, детектив, викторианский Лондон       | #TB #Cordova  #Detective #Mistic #Horror          |
 | [[The `Hood]]                                     | Криминал, современность.                      | #TH #Criminal                                     |
+| [[The Warren]]                                    | Приключения и выживание кроликов.             | #WA #Fairytale #Survival                          |
 | [[Urban Shadows 1e]]                              | Городское фэнтези.                            | #US1 #Urban_fantasy #PVP_game #Magic              |
 | [[Аристократия]]                                  | Политика.                                     | #AR #Politics #Historical                         |
 | [[Грань Вселенной 3e]]                            | Космоопера.                                   | #EU3 #Sci-fi                                      |
