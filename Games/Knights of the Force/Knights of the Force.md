@@ -13,6 +13,9 @@
 
 [Обзор игры](https://vk.com/@red_librarian-knights-of-the-force) от Рыжего Библиотекаря
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/vc323cc0c55f9f5f4f50ab9af90656d54)
+
+
 #todo - гемдизайн
 
 [[!(KOF) Moves]]

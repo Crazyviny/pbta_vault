@@ -1,4 +1,4 @@
-#CA #Archetypes #Tech #Lab #Proprietor
+#CA #Archetypes #Technic #Lab #Proprietor
 
 ## Варщик
 **El cocinero**
