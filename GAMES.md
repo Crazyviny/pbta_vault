@@ -32,6 +32,7 @@
 | [[The `Hood]]                                     | Криминал, современность.                      | #TH #Criminal                                     |
 | [[The Warren]]                                    | Приключения и выживание кроликов.             | #WA #Fairytale #Survival                          |
 | [[Urban Shadows 1e]]                              | Городское фэнтези.                            | #US1 #Urban_fantasy #PVP_game #Magic              |
+| [[Western Horror]]                                | Дикий Запад, мистика.                         | #WH #Western #Mistic #Oneshot                     |
 | [[Аристократия]]                                  | Политика.                                     | #AR #Politics #Historical                         |
 | [[Грань Вселенной 3e]]                            | Космоопера.                                   | #EU3 #Sci-fi                                      |
 | [[Плащи и Пистоли]]                               | Стимпанк, мистика, городское фэнтези.         | #CNP #Steampunk #Mistic #Urban_fantasy            |
