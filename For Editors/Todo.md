@@ -7,4 +7,5 @@
 - Обитатели холмов
 - Knight of a Force
 - Western Horror
+- Плащи и Пистоли
 
