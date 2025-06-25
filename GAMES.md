@@ -15,6 +15,7 @@
 | [[Homebrew World]]                                | Классическое фэнтези.                         | #HBW #Fantasy #Magic                              |
 | [[Horror Movie World]]                            | Хоррор, киносимулятор                         | #HMW #Oneshot #Horror #Filmmaking                 |
 | [[Humanity Zero]]                                 | Киберпанк, научная фантастика.                | #H0 #Cyberpunk #Sci-fi #PVP_game                  |
+| [[KULT]]                                          | Хоррор.                                       | #KT #Horror                                       |
 | [[Knights of the Force]]                          | Звездные воины                                | #KOF #Sci-fi                                      |
 | [[Liquid Soap]]                                   | Мыльная опера.                                | #PP #Soap_opera #Filmmaking #Melodrama            |
 | [[Masks]]                                         | Супергероика.                                 | #MA #Superheroes #Teen_drama                      |
