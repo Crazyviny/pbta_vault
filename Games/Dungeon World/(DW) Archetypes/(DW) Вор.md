@@ -1,4 +1,4 @@
-#DW  #Archetypes #Thief #Asasin  
+#DW  #Archetypes #Thief #Assassin
 
 # Вор
 
