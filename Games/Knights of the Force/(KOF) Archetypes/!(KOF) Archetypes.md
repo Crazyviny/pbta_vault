@@ -1,5 +1,4 @@
-#KOF #Archetypes
-
+#KOF #Archetypes #Stats #Conditions
 ## Общее для всех архетипов 
 
 ### Характеристики

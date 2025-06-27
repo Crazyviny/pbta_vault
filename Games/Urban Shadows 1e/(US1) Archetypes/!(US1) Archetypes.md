@@ -1,6 +1,4 @@
-#US1 #Archetypes
-
-
+#US1 #Archetypes #Stats #Wound 
 ## Общее для всех архетипов 
 
 ### Характеристики

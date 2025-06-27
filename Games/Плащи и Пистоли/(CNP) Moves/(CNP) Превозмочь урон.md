@@ -1,4 +1,4 @@
-#CNP #Moves #Basic #Wound #Defense #Armor 
+#CNP #Moves #Basic #Wound #Defense #Armor #Conditions 
 
 ### Превозмочь урон  
 Когда ты превозмогаешь урон, брось свою **Защиту.**  На 10+, пронесло, но было чертовски близко.  На 7-9, выбери 1:  

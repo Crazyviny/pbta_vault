@@ -1,5 +1,4 @@
-#MW #Archetypes
-
+#MW #Archetypes #Stats
 ## Общее для всех архетипов 
 
 ### Характеристики

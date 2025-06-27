@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Stats #Wound 
 
 ## Общее для всех архетипов 
 

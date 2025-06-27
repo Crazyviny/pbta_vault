@@ -1,4 +1,4 @@
-#AR  #Archetypes
+#AR #Archetypes #Stats #Conditions #Meta_currency 
 
 ## Общее для всех архетипов 
 

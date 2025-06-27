@@ -1,4 +1,4 @@
-#EU3 #Moves #Situation #Wound  
+#EU3 #Moves #Situation #Wound  #Conditions 
 
 ### Лишения
 

@@ -1,4 +1,4 @@
-#AW1 #Archetypes 
+#AW1 #Archetypes #Stats #Improvement #Wound #Death 
 
 ## Общее для всех архетипов 
 

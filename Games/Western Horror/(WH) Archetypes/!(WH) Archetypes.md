@@ -1,4 +1,4 @@
-#WH #Archetypes
+#WH #Archetypes #Stats 
 
 ## Общее для всех архетипов 
 
