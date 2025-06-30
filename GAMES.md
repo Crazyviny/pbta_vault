@@ -28,6 +28,7 @@
 | [[SCUP]]                                          | Средневековое фэнтези.                        | #SCUP #Fantasy #PVP_game                          |
 | [[Seven ronins]]                                  | Роуд-муви, средневековая Япония.              | #7R #Anime #Road_movie                            |
 | [[Simple World]]                                  | Легкая, универсальная PbtA                    | #SW #Universal                                    |
+| [[Sprawl]]                                        | Боевой киберпанк                              | #SP #Cyberpunk #Missoin_based #Action             |
 | Street dogs                                       | Сэйнен, городское фэнтези.                    | #SD #Anime #Urban_fantasy                         |
 | [[The Between]]                                   | Мистика, детектив, викторианский Лондон       | #TB #Cordova  #Detective #Mistic #Horror          |
 | [[The `Hood]]                                     | Криминал, современность.                      | #TH #Criminal                                     |
