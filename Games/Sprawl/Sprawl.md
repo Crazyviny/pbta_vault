@@ -1,4 +1,4 @@
-#SP #Games #Preface #Cyberpunk #Mission_based #Action 
+#SP #Games #Preface #Cyberpunk #Sci-fi #Mission_based #Action 
 ## О чем
 
 Киберпанк про мисси наёмников
