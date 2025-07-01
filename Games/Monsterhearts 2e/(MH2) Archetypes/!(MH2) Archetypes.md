@@ -1,5 +1,4 @@
-#MH2 #Archetypes 
-
+#MH2 #Archetypes #Stats 
 ## Общее для всех архетипов 
 
 ### Характеристики

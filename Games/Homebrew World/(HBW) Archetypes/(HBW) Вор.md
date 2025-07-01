@@ -1,4 +1,4 @@
-#HBW #Archetypes #Thief #Asasin #Spy
+#HBW #Archetypes #Thief #Assassin #Spy
 # Вор
 
 ### Мотивация

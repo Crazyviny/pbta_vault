@@ -1,4 +1,4 @@
-#CA #Archetypes 
+#CA #Archetypes #Stats
 
 ## Общее для всех архетипов 
 

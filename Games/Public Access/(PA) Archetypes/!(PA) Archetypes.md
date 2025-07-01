@@ -1,4 +1,4 @@
-#PA  #Archetypes
+#PA  #Archetypes #Stats #Improvement 
 
 ***В этой игре нет отдельных архетипов***
 

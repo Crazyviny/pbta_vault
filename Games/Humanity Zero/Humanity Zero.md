@@ -1,4 +1,4 @@
-#H0 #Games #Preface #Cyberpunk #Sci-fi 
+#H0 #Games #Preface #Cyberpunk #Sci-fi #PVP_game 
 
 ## О чем
 Киберпанк  о борьбе за выживание в мегаполисе темного будущего

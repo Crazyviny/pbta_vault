@@ -1,4 +1,4 @@
-#DW  #Archetypes #Mage #Religion #Healer 
+#DW  #Archetypes #Divine #Religion #Mage #Healer 
 
 # Жрец
 

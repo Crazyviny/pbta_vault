@@ -1,4 +1,4 @@
-#CA #Archetypes #Ganger #Fixer #Merchant #Asasin 
+#CA #Archetypes #Ganger #Fixer #Merchant #Assassin
 
 ## Ястреб
 **El Halcon**

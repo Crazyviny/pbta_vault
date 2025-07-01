@@ -16,7 +16,7 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 822
           script: |
-            cd /var/www/use6gurps/data/www/pbta.su/vault/src/
+            cd /var/www/use6gurps/data/www/pbta.su/src/
             git pull
-            cd /var/www/use6gurps/data/www/pbta.su/vault/
-            php -f /var/www/use6gurps/data/www/pbta.su/vault/generate-previews.php 
+            cd /var/www/use6gurps/data/www/pbta.su/
+            php -f /var/www/use6gurps/data/www/pbta.su/generate-previews.php 

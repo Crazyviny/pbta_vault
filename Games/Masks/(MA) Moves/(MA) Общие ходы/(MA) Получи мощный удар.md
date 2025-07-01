@@ -1,4 +1,4 @@
-#MA #Moves #Basic #Wound 
+#MA #Moves #Basic #Wound #Conditions 
 
 ### Получи мощный удар
 

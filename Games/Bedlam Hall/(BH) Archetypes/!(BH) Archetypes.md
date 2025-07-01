@@ -1,4 +1,4 @@
-#BH  #Archetypes
+#BH #Archetypes #Stats #Moves #Situation #Meta_currency 
 
 ## Общее для всех архетипов 
 

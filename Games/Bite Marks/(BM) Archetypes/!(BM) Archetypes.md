@@ -1,4 +1,4 @@
-#BM  #Archetypes
+#BM  #Archetypes #Stats
 ## Общее для всех архетипов 
 
 ### Aтрибуты
