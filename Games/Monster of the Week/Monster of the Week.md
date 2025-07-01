@@ -1,4 +1,4 @@
-#MW #Preface #Games #Oneshot #Action #Horror
+#MW #Preface #Games #Action #Horror #Mission_based #Filmmaking 
 
 ## О чем
 Экшн-хоррор про охотников на сверхъестественное
