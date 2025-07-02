@@ -1,4 +1,4 @@
-#SP #Moves #Situation #Journey 
+#SP #Moves #Situation #Journey #Game_phases
 ## Получить работу (Хватка)
 Когда вы обсуждаете подробности работы, брось Хватку.
 **На 10+:** выбери 3 из списка,
