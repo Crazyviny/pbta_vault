@@ -1,4 +1,4 @@
-#MW #GM #Enemy 
+#MW #GM #Enemy #Game_phases
 
 ### Угрозы
 
