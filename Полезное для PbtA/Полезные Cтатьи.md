@@ -41,6 +41,10 @@
 - [Лекция по импровизации](https://youtu.be/ancT48eBSik) от Крайка ([она-же в тексте](https://vk.com/@edgeoftheverse-improvizaciya-ch1-kak-gotovit-improvizaciu))
 - [Масштаб игрового мира](https://youtu.be/aD0n0dWRVuI) от Крайка 
 
+- [Выбираем PbtA буклет в GMentor (для игрока)](https://www.youtube.com/watch?v=Stc-SpyhSZQ) - Часть 1
+- [Правим буклеты PbtA в GMentor (для мастера)](https://www.youtube.com/watch?v=C7YVfZ-WVPA) - Часть 2
+- [Создаем буклеты PbtA в GMentor (для мастера)](https://www.youtube.com/watch?v=4y6t3gDKVmc) - Часть 3
+
 *[[Записи игр]] (стримы) вынесены в отдельный раздел*
 
 
