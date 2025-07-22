@@ -36,6 +36,12 @@
 - [О бедных узах замолвите слово](https://vk.com/@-214463944-o-bednyh-uzah-zamolvite-slovo) - исследование вариантов реализации уз в разных хаках
 - [От Cвязей к Флагам](https://vk.com/wall-207545496_138) - статья про то что можно изменить в механизме уз
 
+#### Для Dungeon World
+- [Монстрятник по W-шному](https://vk.com/@-214463944-monstryatnik-po-w-shnomu)
+- [Бой в DW — это гангстерские разборки](https://vk.com/@irontales-boi-v-dw-eto-gangsterskie-razborki)
+- [Все об узах в Dungeon World](https://vk.com/@irontales-vse-ob-uzah-v-dungeon-world)
+- [16-хитовый дракон](https://vk.com/@irontales-16-hitovyi-drakon)
+
 ## Обучающее видео
 - [Как готовить ПБТА-движок](https://www.youtube.com/watch?v=uQ1LSfD9170) от Крайка 
 - [Лекция по импровизации](https://youtu.be/ancT48eBSik) от Крайка ([она-же в тексте](https://vk.com/@edgeoftheverse-improvizaciya-ch1-kak-gotovit-improvizaciu))
