@@ -1,4 +1,4 @@
-#PIG  #Archetypes  #Manipulator #Luck #Scammer 
+#PIG  #Archetypes  #Manipulator #Lucky #Scammer 
 
 ## Вопросы
 * Кого вы уже довели до выгорания своими действиями?
