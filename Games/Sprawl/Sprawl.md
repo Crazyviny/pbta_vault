@@ -1,7 +1,7 @@
 #SP #Games #Preface #Cyberpunk #Sci-fi #Mission_based #Action 
 ## О чем
 
-Киберпанк про мисси наёмников
+Киберпанк про миссии наёмников
 ## Описание
 
 **The Sprawl** — Муравейник. 
