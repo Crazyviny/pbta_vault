@@ -23,6 +23,7 @@
 - [Как сделать ходы повествовательными?](https://vk.com/@-184600062-kak-sdelat-hody-povestvovatelnymi) из сообщества издательства [@cinegames](https://vk.com/@cinegames)
 - [О ходах, хороших и разных](https://vk.com/@pbtahackyou-o-hodah-horoshih-i-raznyh) из сообщества [@hackyou](https://vk.com/@pbtahackyou)
 - [Изучим изучение обстановки, или физиология хода Discern realities](https://vk.com/@-214463944-izuchim-izuchenie-obstanovki-ili-fiziologiya-hoda-discern-re)  из [блога тифлинга-паладина](https://vk.com/club214463944)
+- [Вероятности успеха броска](/img/pbta-succes-prob.png) - картинка распределения
 
 #### Про Мастерские ходы
 - [Структура ходов Мастера](https://docs.google.com/document/d/1QIQsEarqNSO50khrKweEx_FtT40f6opN7s9qEAhObjA/edit?tab=t.0) [pdf версия](https://psv4.userapi.com/s/v1/d/1gsbJtZ09nZr0iZSiAc6UDB4aF1Ri3kmdo5j6pA54y21W95UiJtFEv_D2B9M0WGyWaMQGrQVL0COofHGgVyjMsh4tuVWkA3M3_CdFxk3zjUHGC6lIVxgTA/Struktura_khodov_Mastera.pdf)
