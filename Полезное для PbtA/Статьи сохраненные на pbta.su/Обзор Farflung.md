@@ -1,6 +1,6 @@
 Слово авторам:
 
-<img src="http://www.sanguinegames.com/wordpress/wp-content/uploads/2017/02/Promotional-Farflung-8-Feb-2017.png" width="100%" style="background: #fff; border: 10px solid #fff; border-radius: 10px;">
+<img src="http://www.sanguinegames.com/wordpress/wp-content/uploads/2017/02/Promotional-Farflung-8-Feb-2017.png" width="100%" style="background: white; border: 10px solid white; border-radius: 10px;">
 
 *"это ролевая игра, действие которой происходит в будущем, которое наступило после будущего, тут ничего не ново и всё позволено. Приходи сюда, чтобы увидеть будущее, ведь нет времени лучше настоящего"*
 
