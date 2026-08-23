@@ -1,4 +1,4 @@
-#WA #Moves #Situation 
+#WA
 
 [[(WA) Рытьё]]
 [[(WA) Высвобождение]]

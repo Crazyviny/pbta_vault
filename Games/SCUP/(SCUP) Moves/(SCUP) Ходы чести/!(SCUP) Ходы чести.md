@@ -1,4 +1,4 @@
-#SCUP #Moves #Fraction 
+#SCUP
 
 [[(SCUP) Ты хоть знаешь кто я]]
 [[(SCUP) Позвать свою фракцию]]

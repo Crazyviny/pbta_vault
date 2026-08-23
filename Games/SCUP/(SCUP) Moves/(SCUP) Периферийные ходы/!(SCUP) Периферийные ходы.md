@@ -1,4 +1,4 @@
-#SCUP #Moves #Situation 
+#SCUP
 
 [[(SCUP) Ход покровителя]]
 [[(SCUP) Помочь или помешать]]

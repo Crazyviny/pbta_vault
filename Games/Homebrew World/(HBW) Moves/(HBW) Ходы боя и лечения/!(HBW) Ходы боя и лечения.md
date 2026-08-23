@@ -1,4 +1,4 @@
-#HBW #Battle #Heal #Moves #Wound 
+#HBW
 
 [[(HBW) Нанести урон]]
 [[(HBW) Защищаться]]

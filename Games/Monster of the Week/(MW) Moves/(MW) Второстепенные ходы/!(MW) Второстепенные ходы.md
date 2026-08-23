@@ -1,4 +1,4 @@
-#MW #Moves #Situation 
+#MW 
 
 [[(MW) Урон]]
 [[(MW) Восстановление]]

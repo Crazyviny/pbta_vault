@@ -1,4 +1,4 @@
-#LS #Moves #Basic 
+#LS #Dice 
 
 ## Базовые ходы
 

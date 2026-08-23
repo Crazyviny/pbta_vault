@@ -1,4 +1,4 @@
-#KOF #Moves #Basic  #Companion 
+#KOF
 
 ## Ходы спутников
 [[(KOF) Найти спутников]]

@@ -1,4 +1,4 @@
-#KOF #Moves #Situation #Transport 
+#KOF 
 
 ## Ходы кораблей и транспорта
 [[(KOF) Собачья свалка]]
