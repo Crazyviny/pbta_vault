@@ -1,4 +1,4 @@
-#BM  #Book #Moves #Meta_currency  
+#BM  #Book #Meta_currency  
 
 ### Ресурсы Стаи 
 

@@ -1,4 +1,4 @@
-#BM  #Book #Moves #Improvement 
+#BM  #Book #Improvement 
 
 ## Пути Волка и Человека 
 

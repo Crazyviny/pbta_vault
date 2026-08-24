@@ -17,7 +17,7 @@
 | [[Humanity Zero]]                                                                         | Киберпанк, научная фантастика.                | <small>#H0 #Cyberpunk #Sci-fi #PVP_game</small>                        |
 | [[KULT]]                                                                                  | Хоррор.                                       | <small>#KT #Horror</small>                                             |
 | [[Knights of the Force]]<br>Рыцари силы                                                   | Звездные воины                                | <small>#KOF #Spaceopera  #Sci-fi</small>                               |
-| [[Liquid Soap]]<br>Жидкое Мыло                                                            | Мыльная опера.                                | <small>#PP #Soap_opera #Filmmaking #Melodrama</small>                  |
+| [[Liquid Soap]]<br>Жидкое Мыло                                                            | Мыльная опера.                                | <small>#LS #Soap_opera #Filmmaking #Melodrama</small>                  |
 | [[Masks]]<br>Маски                                                                        | Супергероика.                                 | <small>#MA #Superheroes #Teen_drama</small>                            |
 | [[Monster of the Week]]<br>Монстр недели                                                  | Экшн-хоррор, охотники на сверхъестественное.  | <small>#MW #Action #Horror #Mission_based #Filmmaking</small>          |
 | [[Monsterhearts 2e]]                                                                      | Городская подростковая мистика.               | <small>#MH2 #Urban_fantasy #Teen_drama #PVP_game</small>               |

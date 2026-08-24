@@ -1,4 +1,4 @@
-#EU3 #Archetypes #Supernatural #Thelecinetic 
+#EU3 #Archetypes #Supernatural #Telekinetic
 
 ## Кинетик
 *Если вручить перспективную технологию в руки виртуозного мастера и дать ему время с ней освоиться, он может сотворить немыслимые вещи.*
