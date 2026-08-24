@@ -1,4 +1,4 @@
-#SCUP #Archetypes #undone 
+#SCUP #undone
 
 Доступные архетипы:
 [[(SCUP) Шепот]]

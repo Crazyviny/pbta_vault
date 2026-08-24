@@ -1,4 +1,4 @@
-#TB  #Archetypes #Stats 
+#TB #Stats
 
 ## Общее для всех архетипов 
 

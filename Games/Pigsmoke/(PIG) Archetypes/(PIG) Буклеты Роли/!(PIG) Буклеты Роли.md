@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Stats
+#PIG #Stats
 
 ## Общее для всех архетипов 
 

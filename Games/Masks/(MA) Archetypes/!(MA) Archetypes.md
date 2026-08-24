@@ -1,4 +1,4 @@
-#MA #Archetypes #Stats #Conditions
+#MA #Stats #Conditions
 ## Общее для всех архетипов 
 
 ### Мотивы (Характеристики)

@@ -1,4 +1,4 @@
-#SP #Archetypes #Stats 
+#SP #Stats
 
 ## Общее для всех архетипов 
 

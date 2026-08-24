@@ -1,4 +1,4 @@
-#AR #Archetypes #Stats #Conditions #Meta_currency 
+#AR #Stats #Conditions #Meta_currency
 
 ## Общее для всех архетипов 
 
@@ -39,4 +39,3 @@
 [[(AR) Финансист]]
 [[(AR) Церковник]]
 [[(AR) Чужак]]
-

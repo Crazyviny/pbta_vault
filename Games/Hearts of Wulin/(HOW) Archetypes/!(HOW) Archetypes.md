@@ -1,4 +1,4 @@
-#HOW  #Archetypes #Stats #Conditions
+#HOW #Stats #Conditions
 ## Общее для всех архетипов 
 
 ### Стихии

@@ -1,4 +1,4 @@
-#CNP #Archetypes #Stats #Meta_currency #Weird 
+#CNP #Stats #Meta_currency #Weird
 
 ## Общее для всех архетипов 
 

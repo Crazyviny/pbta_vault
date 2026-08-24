@@ -1,4 +1,4 @@
-#DW #Archetypes #Stats #Conditions
+#DW #Stats #Conditions
 
 ## Общее для всех архетипов 
 

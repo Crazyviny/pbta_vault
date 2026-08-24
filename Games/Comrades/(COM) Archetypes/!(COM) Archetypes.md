@@ -1,4 +1,4 @@
-#COM  #Archetypes #Stats #Bonds 
+#COM #Stats #Bonds
 
 ## Общее для всех архетипов 
 

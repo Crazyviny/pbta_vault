@@ -1,4 +1,4 @@
-#EU3 #Archetypes #Stats #Conditions #Meta_currency 
+#EU3 #Stats #Conditions #Meta_currency
 
 ## Общее для всех архетипов 
 

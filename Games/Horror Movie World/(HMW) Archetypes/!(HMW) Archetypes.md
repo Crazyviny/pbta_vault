@@ -1,4 +1,4 @@
-#HMW #Archetypes #Stats #Wound
+#HMW #Stats #Wound
 
 ## Общее для всех архетипов 
 

@@ -1,4 +1,4 @@
-#SOI #Archetypes #Stats 
+#SOI #Stats
 
 ## Общее для всех архетипов 
 

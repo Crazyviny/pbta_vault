@@ -1,4 +1,4 @@
-#PAP #Archetypes #Stats #Conditions
+#PAP #Stats #Conditions
 
 ## Общее для всех архетипов 
 

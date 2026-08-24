@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Stats #Improvement #Wound #Death 
+#AW1 #Stats #Improvement #Wound #Death
 
 ## Общее для всех архетипов 
 
@@ -50,4 +50,3 @@
 [[(AW1) Технарь]]
 [[(AW1) Чертовка]]
 [[(AW1) Чоппер]]
-
