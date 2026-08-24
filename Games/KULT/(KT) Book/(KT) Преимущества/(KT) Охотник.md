@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Assassin #Wilderlander #Thief 
+#KT #Moves #Situation #Assassin #Wilderlander #Thief
 ### Охотник
 *Всякий раз, когда вы охотитесь на кого-то или что-то,* сделайте **бросок + Восприятие:**
 **(15+)** Выберите 3 варианта. Вы можете потратить их в *любое* время в течение этой сцены.

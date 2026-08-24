@@ -1,3 +1,3 @@
-#KT #Book #Moves #Situation 
+#KT #Moves #Situation
 ### Закалённый
 Вы получаете *+1* к броскам ***Превозмогать Урон***.

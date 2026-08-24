@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Manipulator 
+#KT #Moves #Situation #Manipulator
 ### Раздвоенный язык
 *Всякий раз, когда вы манипулируете кем-то,* сделайте **бросок + Харизма:**
 **(15+)** Выберите 1 вариант:

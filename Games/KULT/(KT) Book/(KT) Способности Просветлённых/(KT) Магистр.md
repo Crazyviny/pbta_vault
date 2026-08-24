@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Mage 
+#KT #Moves #Situation #Mage
 ### Магистр 
 *(требуется: Адепт)*
 **Магистр (требуется: Адепт)**

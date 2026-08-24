@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Investigator #Investigation #Watch 
+#KT #Moves #Situation #Investigator #Investigation #Watch
 ### Аналитик
 *Всякий раз, когда вы что-то **Расследуете,*** вы также можете выбрать один из следующих дополнительных вопросов:
 - Какие организации, группы или люди могут быть связаны с этим делом?

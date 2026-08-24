@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Supernatural #Assassin #Stealth #Spy 
+#KT #Moves #Situation #Supernatural #Assassin #Stealth #Spy
 ### Тёмное Зрение
 Вы видите в темноте так же хорошо, как и на свету. *Когда вы используете тьму против своего врага,* сделайте **бросок + Восприятие:**
 **(15+)** Выберите 3 Грани. Вы можете использовать до 2 Граней позже.

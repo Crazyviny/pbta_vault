@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Sexy #Supernatural #Manipulator 
+#KT #Moves #Situation #Sexy #Supernatural #Manipulator
 ### Магнетизм
 *Всякий раз, когда вы привлекаете всеобщее внимание,* сделайте **бросок + Душа:**
 **(15+)** Выберите до 3 вариантов. Вы можете приберечь два варианта до конца сцены.

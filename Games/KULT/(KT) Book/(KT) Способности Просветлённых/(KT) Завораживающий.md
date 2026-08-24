@@ -1,4 +1,4 @@
-#KT #Book #Moves #Situation #Telepath #Manipulator #Sexy #Intimidate  
+#KT #Moves #Situation #Telepath #Manipulator #Sexy #Intimidate
 ### Завораживающий
 Вы оказываете мощное притягательное воздействие на людей. *Когда вы используете свои силы, чтобы манипулировать кем-то,* сделайте **бросок + Харизма:**
 **(15+)** Выберите до 3 вариантов.
