@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Technic #Hi-tech #Wealthy 
+#PIG  #Archetypes #Mage #Technic #Hacker #Wealthy 
 
 ## Вопросы
 * Кого бесит, что ваши эксперименты  дорого обходятся кафедре?  
