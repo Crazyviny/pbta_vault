@@ -1,4 +1,4 @@
-#KOF #Archetypes #Fighter 
+#KOF #Archetypes #Fighter #Safeplace
 
 # Солдат
 Офицер, пилот или просто опытный наемник

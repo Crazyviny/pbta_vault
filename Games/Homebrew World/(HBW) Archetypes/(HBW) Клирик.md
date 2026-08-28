@@ -1,4 +1,4 @@
-#HBW #Archetypes #Divine  #Religion #Mage #Necromant 
+#HBW #Archetypes #Divine #Religion #Mage #Necromant
 # Клирик
 
 ### Мотивация

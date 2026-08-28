@@ -1,4 +1,4 @@
-#H0 #Archetypes #Spy #Thief #Mimic #Assassin 
+#H0 #Archetypes #Spy #Thief #Mimic #Assassin
 
 ## AGENT
 *“Нет такого дела, в котором не пригодился бы шпион.”*

@@ -1,4 +1,4 @@
-#AW1 #Moves #Situation #Battle #Bonds 
+#AW1 #Moves #Situation #Battle #Bonds #Safeplace
 
 *По умолчанию, **дополнительные ходы битвы** и **счётчик битвы** не используются. МЦ может решить ввести их в игру.* 
 

@@ -1,4 +1,4 @@
-#DW  #Archetypes #Mage #Lab 
+#DW #Archetypes #Mage #Lab
 
 # Волшебник
 

@@ -1,4 +1,4 @@
-#DW  #Archetypes #Fighter #Wilderlander #Familiar #Animalism #Spy
+#DW #Archetypes #Fighter #Wilderlander #Familiar #Animalism #Spy
 
 # Следопыт
 
