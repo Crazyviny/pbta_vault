@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Mage 
+#MH2 #Archetypes #Mage
 ## Ведьма
 
 ### Преамбула

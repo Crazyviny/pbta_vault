@@ -4,8 +4,9 @@
 - Street dogs (хз когда)
 - обновить картель
 - обновить MH
-- the Veil
 - farflung?
+
+#Safeplace - к ходам в первую очередь
 
 
 
