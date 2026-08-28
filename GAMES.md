@@ -32,6 +32,7 @@
 | Street dogs                                                                               | Сэйнен, городское фэнтези.                    | <small>#SD #Anime #Urban_fantasy</small>                               |
 | [[The Between]]<br>Грань                                                                  | Мистика, детектив, викторианский Лондон       | <small>#TB #Cordova  #Detective #Mistic #Horror #Mission_based</small> |
 | [[The `Hood]]<br>На раёне                                                                 | Криминал, современность.                      | <small>#TH #Criminal</small>                                           |
+| [[The Veil]]<br>Вуаль                                                                     | Киберпанк, научная фантастика.                | <small>#VE #Cyberpunk #Sci-fi</small>                                  |
 | [[The Warren]]<br>Обитатели холмов                                                        | Приключения и выживание кроликов.             | <small>#WA #Fairytale #Survival</small>                                |
 | [[Urban Shadows 1e]]<br>Городские легенды                                                 | Городское фэнтези.                            | <small>#US1 #Urban_fantasy #PVP_game #Magic</small>                    |
 | [[Western Horror]]                                                                        | Дикий Запад, мистика.                         | <small>#WH #Western #Mistic #Oneshot</small>                           |
@@ -43,4 +44,3 @@
 
 ## Смотрите также
 [Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit)
-
