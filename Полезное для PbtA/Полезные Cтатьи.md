@@ -20,6 +20,7 @@
 - Операция «ваншот» (без привязки к пбта) в трех частях [часть 1](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-pervaya-klassifikaciya.html) [часть 2](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-2-struktura.html) [часть 3](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-3-poleznye-sovety.html)
 
 #### Про ходы
+- [Ход против Чека](https://vk.ru/@-150249130-hod-protiv-cheka) - про то, что такое ход без привязки к pbta
 - [Как сделать ходы повествовательными?](https://vk.com/@-184600062-kak-sdelat-hody-povestvovatelnymi) из сообщества издательства [@cinegames](https://vk.com/@cinegames)
 - [О ходах, хороших и разных](https://vk.com/@pbtahackyou-o-hodah-horoshih-i-raznyh) из сообщества [@hackyou](https://vk.com/@pbtahackyou)
 - [Изучим изучение обстановки, или физиология хода Discern realities](https://vk.com/@-214463944-izuchim-izuchenie-obstanovki-ili-fiziologiya-hoda-discern-re)  из [блога тифлинга-паладина](https://vk.com/club214463944)
