@@ -10,8 +10,7 @@
 
 Перевод **Дмитрий Забиров**
 
-## Особенности гейм дизайна
-#todo
+#todo - gamedesign
 
 [[!(UHH) Moves]]
 [[!(UHH) Archetypes]]
