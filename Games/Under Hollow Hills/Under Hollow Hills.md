@@ -8,7 +8,11 @@
 
 [Официальный сайт](https://lumpley.games/under-hollow-hills/)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v85344452fa96d7b6a608de52c4b76b29)
+
 Перевод **Дмитрий Забиров**
+
+
 
 #todo - gamedesign
 
