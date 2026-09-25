@@ -1,4 +1,4 @@
-#UHH #Archetypes #Shapeshifter #Assassin #Manipulator 
+#UHH #Archetypes #Shapeshifter #Beast #Assassin #Manipulator 
 
 # Кошмарный Конь
 

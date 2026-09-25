@@ -1,4 +1,4 @@
-#UHH #Archetypes #Pariah #Assassin 
+#UHH #Archetypes #Pariah #Investigator #Assassin 
 
 # Потерянный
 

@@ -1,4 +1,4 @@
-#UHH #Archetypes #Shapeshifter #Manipulator 
+#UHH #Archetypes #Shapeshifter #Scammer #Manipulator 
 
 # Пустомеля Хоб
 

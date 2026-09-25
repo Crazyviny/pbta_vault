@@ -1,4 +1,4 @@
-#UHH #Archetypes #Stealth #Mage 
+#UHH #Archetypes #Spy #Shapeshifter #Stealth #Mage
 
 # Плащ-из-перьев
 

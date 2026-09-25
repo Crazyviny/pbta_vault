@@ -1,4 +1,4 @@
-#UHH #Archetypes #Sexy #Defense
+#UHH #Archetypes #Sexy #Fighter #Defense
 
 # Вьющаяся Роза
 
