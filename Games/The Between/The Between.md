@@ -1,5 +1,4 @@
 #TB  #Games #Preface #Detective #Mistic #Horror #Cordova #Mission_based
-
 ## О чем
 Мистический детектив в викторианском Лондоне
 
