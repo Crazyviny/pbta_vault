@@ -15,6 +15,8 @@
 
 Перевод **Дмитрий Забиров**
 
+[Обзор](https://vk.ru/@gmentor-obzor-under-hollow-hills)
+
 
 
 #todo - gamedesign
