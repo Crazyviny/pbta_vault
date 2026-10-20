@@ -1,4 +1,4 @@
-#AM #GM #Worldbuilding #need-tag 
+#AM #GM #Worldbuilding #Martial-arts 
 
 # Бойцовский турнир
 

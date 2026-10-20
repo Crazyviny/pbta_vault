@@ -1,4 +1,4 @@
-#AM #Basic  #need-tag
+#AM #Moves #Basic #Drama #Advantage #Companion #Sex
 ### Любовная сцена
 *(Обаяние)*
 Когда ты занимаешься сексом с персонажем игрока или НИП,  пусти в ход Обаяние. 
