@@ -4,6 +4,7 @@
 
 | Название                                                                                  | Жанр                                          | Теги                                                                   |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------- |
+| [[Action Movie World]]                                                                    | Боевик, киносимулятор                         | <small>#AM #Action #Filmmaking </small>                                |
 | <nobr>[[Apocalypse World 1e]] и [[Apocalypse World 2e\|2e]]</nobr><br>Постапокалипсис<br> | Постапокалипсис.                              | <small>#AW1 #AW2 #Post_apocalypse</small>                              |
 | [[Bedlam Hall]]                                                                           | Черная комедия, трэшь-хоррор.                 | <small>#BH #Comedy #Mistic #Horror #PVP_game</small>                   |
 | [[Bite Marks]]<br>Следы укусов                                                            | Городское фэнтези, драма про семью оборотней. | <small>#BM #Urban_fantasy #Drama #PVP_game</small>                     |
