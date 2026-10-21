@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Beast #Sex_move 
+#MH2 #Archetypes #Supernatural #Beast #Sex_move #Dark_self
 ## Упырь
 
 ### Преамбула

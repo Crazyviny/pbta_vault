@@ -1,4 +1,4 @@
-#KOF #Archetypes #Fighter  #Equipped #Supernatural #Manipulator 
+#KOF #Archetypes #Fighter  #Equipped #Supernatural #Manipulator #Dark_gift
 
 # Ситх
 Мастер Силы, использующий ее ради достижения выгоды и власти

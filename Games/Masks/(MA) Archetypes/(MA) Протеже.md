@@ -1,4 +1,4 @@
-#MA #Archetypes #Supernatural #Dependent #Investigator 
+#MA #Archetypes #Supernatural #Dependent #Investigator #Team 
 
 ## Протеже
 Ты показал себя перед опытным героем. Он думает, что у тебя есть потенциал. Он тренировал тебя, и теперь тебе надо решать, хочешь ли ты быть таким, как он или найдешь свой собственный путь?

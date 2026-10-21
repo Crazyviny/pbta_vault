@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Demonic #Sex_move 
+#MH2 #Archetypes #Demonic #Sex_move #Dark_self
 ## Проклятый
 
 ### Преамбула

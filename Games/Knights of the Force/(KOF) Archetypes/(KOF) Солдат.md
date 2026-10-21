@@ -1,4 +1,4 @@
-#KOF #Archetypes #Fighter #Safeplace
+#KOF #Archetypes #Fighter #Safeplace #Dark_gift
 
 # Солдат
 Офицер, пилот или просто опытный наемник

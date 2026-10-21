@@ -1,4 +1,4 @@
-#CNP #Moves #Situation #Weird #Meta_currency #Advantage 
+#CNP #Moves #Situation #Weird #Meta_currency #Advantage #Dark_gift 
 
 ### Искать милости Запретных Сил
 Когда взмаливаешься к **Запретным Силам** о милости, помощи или защите, потрать  1 **Фавор** или стань их *должником,* и брось **Разумение.** Запретные силы проявят  себя. Выбери 1:  

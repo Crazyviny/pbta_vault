@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Manipulator #Spy #Mimic #Lab #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Manipulator #Spy #Mimic #Lab #Sex_move #Last_move #Dark_self #Dark_gift
 
 ## Бессмертный
 

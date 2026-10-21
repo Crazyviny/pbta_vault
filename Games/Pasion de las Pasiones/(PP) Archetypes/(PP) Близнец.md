@@ -1,4 +1,4 @@
-#PP #Archetypes #Mimic 
+#PP #Archetypes #Mimic #Dark_self
 
 ## Близнец
 **El Gemelo**

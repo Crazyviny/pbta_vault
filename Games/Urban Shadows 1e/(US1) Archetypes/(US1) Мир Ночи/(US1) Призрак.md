@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Telekinetic #Ghoster #Spy #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Telekinetic #Ghoster #Spy #Sex_move #Last_move #Dark_self #Dark_gift
 
 ## Призрак
 Полтергейст, привидение, дух  — в  каждом уголке мира их  зовут по‑своему. Они — воплощения наших тайных страхов и обитатели не ‑ ясных грёз. Тени умерших, по какой‑то причине не покидающие сию юдоль скорби. Им ведомы все наши слабости и греховные страсти.

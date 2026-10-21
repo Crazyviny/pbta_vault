@@ -1,4 +1,4 @@
-#CNP #Archetypes #Supernatural #Pariah #Beast #Mimic #Telepath #Safeplace
+#CNP #Archetypes #Supernatural #Pariah #Beast #Mimic #Telepath #Safeplace #Dark_gift
 
 # НЕЛЮДЬ
 *… история о зависимости, выживании, чудовищной силе и гонениям.*

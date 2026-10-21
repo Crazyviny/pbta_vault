@@ -1,4 +1,4 @@
-#CNP #Archetypes #Sexy #Manipulator 
+#CNP #Archetypes #Sexy #Manipulator #Dark_gift
 
 # СЕРДЦЕЕД
 *… история о соблазнении, манипуляциям, светском лавировании.*

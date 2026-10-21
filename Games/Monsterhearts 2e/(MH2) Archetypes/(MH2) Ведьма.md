@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Mage #Sex_move 
+#MH2 #Archetypes #Mage #Sex_move #Dark_self
 ## Ведьма
 
 ### Преамбула

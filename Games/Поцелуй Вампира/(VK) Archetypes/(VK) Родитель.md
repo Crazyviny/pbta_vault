@@ -1,4 +1,4 @@
-#VK  #Archetypes #Civilian #Ganger #Leader #Wiseman 
+#VK  #Archetypes #Civilian #Ganger #Leader #Wiseman #Dark_self
 
 # Родитель
 

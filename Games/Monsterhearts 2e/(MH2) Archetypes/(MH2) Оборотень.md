@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Shapeshifter #Fighter #Beast #Sex_move 
+#MH2 #Archetypes #Supernatural #Shapeshifter #Fighter #Beast #Sex_move #Dark_self
 ## Оборотень
 
 ### Преамбула

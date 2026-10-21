@@ -1,4 +1,4 @@
-#CNP #Archetypes #Wealthy #Celebrity #Ganger #Lab
+#CNP #Archetypes #Wealthy #Celebrity #Ganger #Lab #Dark_gift
 
 # СУДАРЬ
 *… история об интригах, репутации, борьбе за власть.*

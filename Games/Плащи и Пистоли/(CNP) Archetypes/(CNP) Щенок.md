@@ -1,4 +1,4 @@
-#CNP #Archetypes #Dependent #Spy #Lucky 
+#CNP #Archetypes #Dependent #Spy #Lucky #Dark_gift
 
 # ЩЕНОК
 *… история о приключении, взрослении, поиске и раскрытии себя.*

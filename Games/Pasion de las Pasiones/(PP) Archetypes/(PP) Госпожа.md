@@ -1,4 +1,4 @@
-#PP #Archetypes #Manipulator 
+#PP #Archetypes #Manipulator #Dark_self
 
 ## Госпожа
 **La Doña**

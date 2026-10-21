@@ -1,4 +1,4 @@
-#US1 #Archetypes #Mage #Lab #Proprietor #Sex_move #Last_move
+#US1 #Archetypes #Mage #Lab #Proprietor #Sex_move #Last_move #Dark_self #Dark_gift
 ## Чародей
 Чародеи — одни из самых могущественных и смертоносных представителей человечества. Способность изменять окружающую реальность даёт им устрашающую власть. А ничто не развращает так, как власть.
 

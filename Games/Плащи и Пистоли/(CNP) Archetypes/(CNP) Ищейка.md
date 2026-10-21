@@ -1,4 +1,4 @@
-#CNP #Archetypes #Investigator #Official  
+#CNP #Archetypes #Investigator #Official #Dark_gift
 
 # ИЩЕЙКА
 *… история о расследованиях, выслеживанию, человеческих секретах.*

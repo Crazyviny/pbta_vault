@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Ghoster #Healer #Spy #Pariah #Sex_move 
+#MH2 #Archetypes #Supernatural #Ghoster #Healer #Spy #Pariah #Sex_move #Dark_self
 ## Призрак
 
 ### Преамбула

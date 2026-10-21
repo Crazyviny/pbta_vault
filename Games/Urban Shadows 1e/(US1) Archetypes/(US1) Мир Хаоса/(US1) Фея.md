@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Mage #Man-of-Honor #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Mage #Man-of-Honor #Sex_move #Last_move #Dark_self #Dark_gift
 ## Фея
 Никому из смертных не дано до конца понять переменчивую и загадочную суть фей. Их путь — это традиции, честь и, в первую очередь, сделки. Феи не просто ценят свои добродетели — они воплощают их.
 

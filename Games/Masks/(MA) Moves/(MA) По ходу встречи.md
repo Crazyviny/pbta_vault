@@ -1,4 +1,4 @@
-#MA #Moves #Session
+#MA #Moves #Session #Team 
 
 ### **По ходу встречи**
 

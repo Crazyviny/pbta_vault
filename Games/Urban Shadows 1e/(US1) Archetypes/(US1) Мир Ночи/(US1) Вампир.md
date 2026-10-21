@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Beast #Manipulator #Safeplace #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Beast #Manipulator #Safeplace #Sex_move #Last_move #Dark_self #Dark_gift
 
 ## Вампир
 Вампир  — настоящий городской хищник: сильный, быстрый, бессмертный, ненасытный. Он чудовище, извращённое отражение человека, которым был когда‑то, обречённое бродить по земле, служа своему голоду. Держись от него подальше

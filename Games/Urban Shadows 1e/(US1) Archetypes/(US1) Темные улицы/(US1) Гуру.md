@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Religion #Ganger #Leader #Healer #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Religion #Ganger #Leader #Healer #Sex_move #Last_move #Dark_self #Dark_gift
 
 ## Гуру
 Однажды ты начал говорить… и твоими устами заговорило Божество. Ты никогда не просил об этом, никогда не жаждал откровения, никогда не стремился быть пастырем и нести утешение избранным. Но когда святой дух призвал тебя, ты принял эту ношу. Сможешь ли ты оправдать доверие?

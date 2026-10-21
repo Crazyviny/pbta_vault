@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Manipulator #Ganger #Sexy #Supernatural #Sex_move 
+#MH2 #Archetypes #Manipulator #Ganger #Sexy #Supernatural #Sex_move #Dark_self
 ## Королева
 
 ### Преамбула

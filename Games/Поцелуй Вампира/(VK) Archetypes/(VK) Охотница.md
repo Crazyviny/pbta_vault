@@ -1,5 +1,4 @@
-
-#VK  #Archetypes #Avenger #Ganger #Fighter 
+#VK  #Archetypes #Avenger #Ganger #Fighter #Dark_self
 # Охотница
 
 ***Дерзкая и бесстрашная, ты сражаешься с чудовищами,  но всегда рискуешь с ними сблизиться.***  

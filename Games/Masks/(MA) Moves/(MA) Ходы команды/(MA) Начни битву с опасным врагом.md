@@ -1,4 +1,4 @@
-#MA #Moves #Situation #Meta_currency #Battle #Boss 
+#MA #Moves #Situation #Team #Meta_currency #Battle #Boss 
 
 ### Начни битву с опасным врагом
 Когда ты **начинаешь битву с опасным врагом**, добавь 2 жетона в запас команды.

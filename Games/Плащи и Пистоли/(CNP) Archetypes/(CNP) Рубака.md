@@ -1,4 +1,4 @@
-#CNP #Archetypes #Fixer  
+#CNP #Archetypes #Fixer #Dark_gift
 
 # РУБАКА
 *… история о побоищах, доминировании, силе и ярости*

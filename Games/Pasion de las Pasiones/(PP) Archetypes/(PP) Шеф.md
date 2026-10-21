@@ -1,4 +1,4 @@
-#PP #Archetypes #Leader #Ganger 
+#PP #Archetypes #Leader #Ganger #Dark_self
 
 ## Шеф
 **El Jefe**

@@ -1,4 +1,4 @@
-#CNP #Archetypes #Technic #Lab #Equipped 
+#CNP #Archetypes #Technic #Lab #Equipped #Dark_gift
 # МЕХАНИСТ
 *… история о прогрессе, фантастическим технологиях, злоупотреблению влиянием*
 

@@ -1,4 +1,4 @@
-#CNP #Archetypes #Spy #Assassin #Thief 
+#CNP #Archetypes #Spy #Assassin #Thief #Dark_gift
 
 # ТЕНЬ
 *… история о скрытности, воровстве или убийствам.*

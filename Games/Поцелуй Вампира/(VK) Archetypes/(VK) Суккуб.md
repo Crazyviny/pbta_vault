@@ -1,4 +1,4 @@
-#VK  #Archetypes #Sexy #Manipulator #Wealthy  #Supernatural 
+#VK  #Archetypes #Sexy #Manipulator #Wealthy  #Supernatural #Dark_self
 
 # Суккуб
 

@@ -1,4 +1,4 @@
-#MA #Moves #Situation #Meta_currency
+#MA #Moves #Situation #Team #Meta_currency
 
 ### Действуй эгоистично
 

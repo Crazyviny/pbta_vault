@@ -1,4 +1,4 @@
-#VK  #Archetypes #Wiseman #Manipulator #Scammer #Celebrity #Supernatural #Telepath 
+#VK  #Archetypes #Wiseman #Manipulator #Scammer #Celebrity #Supernatural #Telepath #Dark_self
 
 # Старейшина
 

@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Demonic #Shapeshifter #Ganger #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Demonic #Shapeshifter #Ganger #Sex_move #Last_move #Dark_self #Dark_gift
 ## Меченый
 Ты всё ещё не забыл, что значит быть человеком — или быть человеком полностью. Но это было давно, до того как твоя душа угодила в лапы демона. Теперь ты нечто большее и работаешь на нового хозяина, который всегда недоволен и никогда не оставит тебя в покое. Худшая работа на свете.
 

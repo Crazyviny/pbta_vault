@@ -1,4 +1,4 @@
-#VK  #Archetypes #Fighter #Ganger  #Supernatural #Beast 
+#VK  #Archetypes #Fighter #Ganger  #Supernatural #Beast #Dark_self
 
 # Хищник
 

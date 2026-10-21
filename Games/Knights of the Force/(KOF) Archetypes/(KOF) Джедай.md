@@ -1,4 +1,4 @@
-#KOF #Archetypes #Fighter #Man-of-Honor #Official #Wiseman 
+#KOF #Archetypes #Fighter #Man-of-Honor #Official #Wiseman #Dark_gift
 
 # Джедай
 Член ордена защитников порядка и мира в Галактике

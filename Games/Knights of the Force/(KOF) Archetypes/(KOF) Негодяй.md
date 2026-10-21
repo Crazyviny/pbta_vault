@@ -1,4 +1,4 @@
-#KOF #Archetypes #Scammer #Lucky  #Equipped #Fixer #Thief  
+#KOF #Archetypes #Scammer #Lucky  #Equipped #Fixer #Thief #Dark_gift
 
 # Негодяй
 Игрок, контрабандист, взломщик, хакер — тот, у кого свои понятия о том, что «честно», «законно» и «справедливо»

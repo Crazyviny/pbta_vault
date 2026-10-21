@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Beast  #Telepath #Sex_move 
+#MH2 #Archetypes #Supernatural #Beast  #Telepath #Sex_move #Dark_self
 ## Вампир
 
 ### Преамбула

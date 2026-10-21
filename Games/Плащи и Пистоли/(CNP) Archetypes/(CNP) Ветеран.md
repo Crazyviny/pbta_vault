@@ -1,4 +1,4 @@
-#CNP #Archetypes #Leader #Fighter  
+#CNP #Archetypes #Leader #Fighter #Dark_gift
 
 # ВЕТЕРАН
 *… история о тактике, дисциплине, воинской чести, товариществу*

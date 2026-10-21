@@ -1,4 +1,4 @@
-#VK  #Archetypes #Supernatural #Fighter #Beast #Shapeshifter 
+#VK  #Archetypes #Supernatural #Fighter #Beast #Shapeshifter #Dark_self 
 
 # Волк
 

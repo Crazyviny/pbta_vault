@@ -1,4 +1,4 @@
-#MA #Archetypes #Supernatural #Technic #Ganger #Driver 
+#MA #Archetypes #Supernatural #Technic #Ganger #Driver #Team 
 
 ## Чужак
 Ты не отсюда. Твой дом – удивительное место, полный чудес и красоты. Но есть здесь что-то особенное, чего тебе не хватает дома. Что-то… человеческое. Так что да, ты еще тут позависаешь. По крайней мере, пока.

@@ -1,4 +1,4 @@
-#CNP #Archetypes #Scammer #Manipulator #Mimic 
+#CNP #Archetypes #Scammer #Manipulator #Mimic #Dark_gift
 
 # ПЛУТ
 *… история о обмане, хитрости, подлоге.*

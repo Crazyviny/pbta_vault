@@ -1,4 +1,4 @@
-#CNP #Archetypes #Healer #Wiseman  
+#CNP #Archetypes #Healer #Wiseman #Dark_gift
 
 # ИЗЫСКАТЕЛЬ
 *… история о науке, исследованиям, тайным познаниям, зову долга.*

@@ -1,4 +1,4 @@
-#KOF #Archetypes #Manipulator #Mimic #Spy #Hacker 
+#KOF #Archetypes #Manipulator #Mimic #Spy #Hacker #Dark_gift 
 
 # Агент
 Агент влияния, мастер убеждения, переговоров и манипуляции, специалист в тайных операциях

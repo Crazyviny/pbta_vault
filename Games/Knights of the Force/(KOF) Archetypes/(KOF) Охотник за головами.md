@@ -1,4 +1,4 @@
-#KOF #Archetypes #Investigator #Assassin #Equipped 
+#KOF #Archetypes #Investigator #Assassin #Equipped #Dark_gift
 
 # Охотник за головами
 Ловкий и опасный специалист по поиску и нейтрализации тех, кто сам по себе опасен и ловок

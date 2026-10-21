@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Fighter #Shapeshifter #Beast #Wilderlander #Proprietor #Sex_move #Last_move
+#US1 #Archetypes #Supernatural #Fighter #Shapeshifter #Beast #Wilderlander #Proprietor #Sex_move #Last_move #Dark_self #Dark_gift
 
 ## Волк
 Первобытный, смертоносный и  потрясающий. Мало кто  на  этом свете способен потягаться с  оборотнем в  упорстве или  грубой силе. Получившие проклятье через волчий укус или  принявшие его через родителей несут в своей крови заряд великой ярости. Однако ярость, как и любое чувство, можно обуздать — со временем.
