@@ -1,4 +1,4 @@
-#PA  #Games #Preface #Horror #Detective #Cordova #Mission_based
+#PA  #Games #Preface #Horror #Detective #Cordova #Mission_based #Cooperative
 
 ## О чем
 Ностальгический хоррор о возвращении в детство и расследовании тайн маленького городка

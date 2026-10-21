@@ -1,4 +1,4 @@
-#BM  #Games #Preface #Urban_fantasy #Drama #PVP
+#BM  #Games #Preface #Urban_fantasy #Drama #PVP #Cooperative
 
 ## О чем
 Игра о жизни и конфликтах в стае оборотней.

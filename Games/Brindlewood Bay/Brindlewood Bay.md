@@ -1,4 +1,4 @@
-#BB  #Games #Preface #Cordova #Detective #Mistic #Mission_based
+#BB  #Games #Preface #Cordova #Detective #Mistic #Mission_based #Cooperative
 
 ## О чем
 Пожилые тетушки расследуют убийства в причудливом городке в Новой Англии
