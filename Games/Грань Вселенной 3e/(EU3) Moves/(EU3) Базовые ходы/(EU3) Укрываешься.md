@@ -1,4 +1,4 @@
-#EU3 #Moves #Basic #Defense 
+#EU3 #Moves #Basic #Defense #Escape 
 ### Укрываешься
 
 Когда ты **прячешься от опасности**, действуй: 

@@ -1,4 +1,4 @@
-#AW2  #Moves #Basic  #Help #Interfere 
+#AW2 #Moves #Basic  #Help #Interfere 
 
 *Это ход отличается от 1й редакции: [[(AW1) Помочь или помешать]]*
 

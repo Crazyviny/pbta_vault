@@ -1,4 +1,4 @@
-#HBW #Moves #Situation #Defense 
+#HBW #Moves #Situation #Defense #Escape #Team 
 ### Бежать со всех ног
 Когда **группа бежит от опасности**, брось и прибавь 
 … −1 если хоть кто-то из вас перегружен.

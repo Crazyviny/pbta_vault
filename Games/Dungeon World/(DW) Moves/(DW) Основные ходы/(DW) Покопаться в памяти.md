@@ -1,4 +1,4 @@
-#DW #Moves #Basic #Investigation 
+#DW #Moves #Basic #Investigation #Flashback 
 
 **Покопаться в памяти**
 Когда вы **пытаетесь найти в залежах памяти сведения о чём-либо**, бросьте+ИНТ. 
