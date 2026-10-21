@@ -1,4 +1,4 @@
-#BM  #Archetypes #Religion #Oracle #Manipulator #Telepath 
+#BM  #Archetypes #Religion #Oracle #Manipulator #Telepath #Sex_move 
 
 ## Воющий
 

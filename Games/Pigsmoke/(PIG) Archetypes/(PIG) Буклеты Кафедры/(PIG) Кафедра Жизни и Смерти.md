@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Necromant #Ganger #Religion 
+#PIG  #Archetypes #Mage #Necromant #Ganger #Religion #Companion 
 
 # Кафедра Жизни и Смерти
 ## Вопросы

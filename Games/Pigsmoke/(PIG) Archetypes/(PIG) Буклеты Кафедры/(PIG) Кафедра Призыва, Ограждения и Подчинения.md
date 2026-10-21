@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Demonic 
+#PIG  #Archetypes #Mage #Demonic #Companion 
 
 # Кафедра Призыва, Ограждения и Подчинения
 ## Вопросы

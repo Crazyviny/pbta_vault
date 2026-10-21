@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Fighter 
+#AW1 #Archetypes #Fighter #Sex_move 
 
 ## Стрелок
 

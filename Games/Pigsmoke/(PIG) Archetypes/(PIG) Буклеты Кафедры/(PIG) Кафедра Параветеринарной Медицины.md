@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Familiar #Wilderlander #Animalism #Manipulator 
+#PIG  #Archetypes #Mage #Familiar #Wilderlander #Animalism #Manipulator #Companion 
 
 # Кафедра Параветеринарной Медицины
 ## Вопросы

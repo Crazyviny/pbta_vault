@@ -1,4 +1,4 @@
-#VE #Archetypes #Man-of-Honor #Official #Investigator #Fighter
+#VE #Archetypes #Man-of-Honor #Official #Investigator #Fighter #Sex_move 
 
 ### ХРАНИТЕЛЬ ЧЕСТИ
 Главный движущий стимул для Хранителя Чести — это его стремление принуждать других выполнять свой Долг перед обществом. В «Вуали» такое понимание чести глубоко укоренилась в культуре мира в котором вы играете, а ты её хранитель.

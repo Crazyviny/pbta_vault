@@ -1,4 +1,4 @@
-#BM  #Archetypes #Fighter 
+#BM  #Archetypes #Fighter #Sex_move 
 
 ## Защитник
 

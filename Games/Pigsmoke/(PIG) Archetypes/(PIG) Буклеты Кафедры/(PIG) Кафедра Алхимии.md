@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Technic #Hacker #Wealthy 
+#PIG  #Archetypes #Mage #Technic #Hacker #Wealthy #Companion 
 
 # Кафедра Алхимии
 ## Вопросы

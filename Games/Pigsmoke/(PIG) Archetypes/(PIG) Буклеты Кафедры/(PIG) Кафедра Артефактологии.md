@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Wealthy #Lab #Thief 
+#PIG  #Archetypes #Mage #Wealthy #Lab #Thief #Companion 
 
 # Кафедра Артефактологии
 ## Вопросы

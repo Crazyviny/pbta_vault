@@ -1,4 +1,4 @@
-#AM #Moves #Basic #Drama #Advantage #Companion #Sex
+#AM #Moves #Basic #Drama #Advantage #Companion #Sex_move 
 ### Любовная сцена
 *(Обаяние)*
 Когда ты занимаешься сексом с персонажем игрока или НИП,  пусти в ход Обаяние. 

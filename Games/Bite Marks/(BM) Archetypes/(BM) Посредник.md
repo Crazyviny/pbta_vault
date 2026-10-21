@@ -1,4 +1,4 @@
-#BM  #Archetypes #Fixer #Investigator #Spy 
+#BM  #Archetypes #Fixer #Investigator #Spy #Sex_move 
 
 ## Посредник
 

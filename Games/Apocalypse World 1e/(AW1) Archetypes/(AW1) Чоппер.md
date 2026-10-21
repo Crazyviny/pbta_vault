@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Leader #Ganger
+#AW1 #Archetypes #Leader #Ganger #Sex_move 
 
 ## Чоппер
 

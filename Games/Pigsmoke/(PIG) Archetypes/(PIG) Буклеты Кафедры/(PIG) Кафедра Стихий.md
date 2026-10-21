@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage 
+#PIG  #Archetypes #Mage #Companion 
 
 # Кафедра Стихий
 

@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Leader #Religion #Celebrity #Manipulator 
+#AW1 #Archetypes #Leader #Religion #Celebrity #Manipulator #Sex_move 
 
 ## Гуру
 

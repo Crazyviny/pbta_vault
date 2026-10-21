@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Scammer #Fixer #Manipulator 
+#AW1 #Archetypes #Scammer #Fixer #Manipulator #Sex_move 
 
 ## Комбинатор
 

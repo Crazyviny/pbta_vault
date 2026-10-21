@@ -1,4 +1,4 @@
-#US1 #Archetypes #Supernatural #Shapeshifter #Ganger 
+#US1 #Archetypes #Supernatural #Shapeshifter #Ganger #Sex_move #Last_move
 
 ## Дракон
 

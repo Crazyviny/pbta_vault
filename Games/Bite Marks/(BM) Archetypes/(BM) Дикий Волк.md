@@ -1,4 +1,4 @@
-#BM  #Archetypes #Pariah #Fighter 
+#BM  #Archetypes #Pariah #Fighter #Sex_move 
 
 ## Дикий Волк
 

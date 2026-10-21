@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Leader #Wealthy #Official #Ganger 
+#AW1 #Archetypes #Leader #Wealthy #Official #Ganger #Sex_move 
 
 ## Вожак
 

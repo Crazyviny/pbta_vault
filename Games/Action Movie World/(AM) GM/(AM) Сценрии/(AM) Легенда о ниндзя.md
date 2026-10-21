@@ -1,4 +1,4 @@
-#AM #GM #Worldbuilding #Ninja #Martial-arts 
+#AM #GM #Worldbuilding #Ninja #Martial_arts 
 
 # Легенда о ниндзя
 

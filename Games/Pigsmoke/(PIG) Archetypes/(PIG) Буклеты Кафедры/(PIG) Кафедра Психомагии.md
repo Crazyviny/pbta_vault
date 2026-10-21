@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Telepath  
+#PIG  #Archetypes #Mage #Telepath  #Companion 
 
 # Кафедра Психомагии
 ## Вопросы

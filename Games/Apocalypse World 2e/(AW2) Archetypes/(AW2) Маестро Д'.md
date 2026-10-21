@@ -1,4 +1,4 @@
-#AW2  #Archetypes #Proprietor #Fixer #Merchant #Sexy #Wealthy 
+#AW2  #Archetypes #Proprietor #Fixer #Merchant #Sexy #Wealthy #Sex_move 
 
 ## Маестро Д'
 

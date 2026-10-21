@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Mage #Oracle 
+#PIG  #Archetypes #Mage #Oracle #Companion 
 
 # Кафедра Предсказаний
 ## Вопросы
