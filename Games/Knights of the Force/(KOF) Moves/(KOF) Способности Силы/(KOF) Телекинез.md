@@ -1,4 +1,4 @@
-#KOF #Moves #Situation #Weird  
+#KOF #Moves #Situation #Weird #Telekinetic   
 
 **Телекинез**  
 Когда ты двигаешь с  помощью Силы предметы, проверь **Мудрость.** 

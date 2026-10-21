@@ -1,4 +1,4 @@
-#KOF #Moves #Situation #Weird 
+#KOF #Moves #Situation #Weird #Telekinetic 
 
 **Шторм Силы**  
 Когда ты используешь Темную Сторону, для создания  мощного вихря, проверь **Мощь.**  

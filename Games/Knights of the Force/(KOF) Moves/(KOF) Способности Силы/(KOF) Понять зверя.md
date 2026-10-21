@@ -1,4 +1,4 @@
-#KOF #Moves #Situation #Weird 
+#KOF #Moves #Situation #Weird #Telepath 
 
 **Понять зверя**  
 Когда ты хочешь понять зверя, проверь **Разум.**  
