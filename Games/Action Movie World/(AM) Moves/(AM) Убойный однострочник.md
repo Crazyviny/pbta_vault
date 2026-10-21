@@ -1,4 +1,4 @@
-#AM #Moves #Basic #Advantage #Meta_currency #Bonds 
+#AM #Moves #Basic #Advantage #Meta_currency #Bonds #Team 
 ### Убойный однострочник
 *(Кураж)*
 Когда ты выдаёшь крутой однострочник  или фирменную фразу своего героя, войди в Кураж.  

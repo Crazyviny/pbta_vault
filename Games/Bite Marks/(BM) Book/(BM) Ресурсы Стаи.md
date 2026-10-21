@@ -1,4 +1,4 @@
-#BM  #Book #Meta_currency  
+#BM  #Book #Meta_currency #Team  
 
 ### Ресурсы Стаи 
 
