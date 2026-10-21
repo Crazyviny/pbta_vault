@@ -1,4 +1,4 @@
-#KOF #Moves #Situation #Transport 
+#KOF #Moves #Situation #Transport #Chase
 
 ### Собачья свалка  
 Когда ты, управляя транспортом, ведешь маневренный  бой, проверь **Ловкость.**  

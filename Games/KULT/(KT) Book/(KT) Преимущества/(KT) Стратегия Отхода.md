@@ -1,4 +1,4 @@
-#KT #Moves #Situation #Stealth #Thief #Safeplace 
+#KT #Moves #Situation #Stealth #Thief #Safeplace #Escape
 ### Стратегия Отхода
 *Всякий раз, когда вы скрытно убиваете кого-то и покидаете место убийства,* сделайте **бросок + Восприятие:**
 **(15+)** Вы получаете все 3 варианта из списка ниже.

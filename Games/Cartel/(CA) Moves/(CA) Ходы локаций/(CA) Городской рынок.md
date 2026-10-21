@@ -1,4 +1,4 @@
-#CA #Moves #Location_move
+#CA #Moves #Location_move #Escape
 
 ### MERCADO MUNICIPAL
 *Mercado Municipal – это настоящий карнавал красок и ароматов. Товары, продукты, целебные травы, еда и fayuca. Все дешево, специально для тощих карманов обывателей.*
