@@ -1,10 +1,7 @@
 #Watch разделить на человек и ситуацию?
 трюки паркур?
 Момент истины в масках???? 
-
-
 происхождение / расса - EU3 DW CNP?
-
 тэг #Cooperative_game на AM, DW, PAP BM, MASKS, Mo of Weeek? Cardova?
 
 
